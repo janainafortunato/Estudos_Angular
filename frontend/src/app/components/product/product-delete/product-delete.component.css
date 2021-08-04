@@ -4,8 +4,9 @@ mat-card {
 
 form {
     display: flex;
-    flex-direction: column;  
-    margin-top: 20px;  
+    flex-direction: column;
+    margin-top: 20px;
+
 }
 
 button {
